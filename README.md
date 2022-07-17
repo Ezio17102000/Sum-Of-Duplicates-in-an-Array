@@ -1,4 +1,4 @@
-# Sum-Of-Duplicates-in-an-Array
+# Sum-Of-Duplicates-in-an-Array in Java
 
 mport java.util.*;
 
